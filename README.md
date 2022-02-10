@@ -1,6 +1,6 @@
 # Siege
 
-This testing tool surrounds [go-ethereum](github.com/ethereum/go-ethereum) with [cannon](github.com/ethereum-optimism/cannon) 
+This testing tool surrounds [go-ethereum](https://github.com/ethereum/go-ethereum) with [cannon](https://github.com/ethereum-optimism/cannon) 
 to catch the blocks of [retesteth](https://github.com/ethereum/retesteth) going into go-ethereum and test cannon with them.
 
 ## Usage
